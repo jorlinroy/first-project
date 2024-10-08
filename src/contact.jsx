@@ -32,11 +32,7 @@ export default function Contact() {
             <strong>Twitter:</strong>
             <a href="https://x.com/jorlin_roy?t=35STXkZo7EwyfYqJl5EBPQ&s=09" target="_blank" rel="noopener noreferrer"> @jorlin_roy</a>
           </li>
-          <li>
-            <FaGithub className="contact-icon" />
-            <strong>GitHub:</strong>
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer"> yourusername</a>
-          </li>
+         
         </ul>
       </section>
     </div>
